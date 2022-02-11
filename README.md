@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PrithviMokashi
-- 👀 I’m interested in Csiber
+- 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning MCA
 - 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me ...
