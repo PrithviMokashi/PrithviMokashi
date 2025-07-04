@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PrithviMokashi
-- 👀 I’m interested in Data and Cloud
-- 🌱 I’m currently learning MCA
+- 👀 I’m interested in Data and AI
+- 🌱 I’m currently working at Tata Consultancy Services
 - 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me - LinkedIn
 
